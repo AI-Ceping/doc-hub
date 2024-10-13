@@ -5,7 +5,7 @@ title: 🧭 大模型评测小白入门指北
 
 #
 
-![General Intro Image](/img/intro/img01.png)
+![General Intro Image](./img/01-general-intro/img01.png)
 
 ## 0.什么是大语言模型？
 
@@ -33,8 +33,11 @@ title: 🧭 大模型评测小白入门指北
 5. **公平性和伦理测试**：评估模型在处理不同人群和内容时是否存在偏见，确保其公平和无害。
 
 <div class='flex-row'>
-  <img src="/img/intro/img02.png" style={{width: '70%', objectFit: 'contain'}}/>
-  <img src="/img/intro/img03.png" style={{width: '30%', objectFit: 'contain'}}/>
+
+![img02](./img/01-general-intro/img02.png)
+
+![img03](./img/01-general-intro/img03.png)
+
 </div>
 
 当下，市面上的评测体系近百个，既有来自专业学术机构的，也有来自市场运作组织的，还有一些媒体也推出了对应的大模型榜单。
